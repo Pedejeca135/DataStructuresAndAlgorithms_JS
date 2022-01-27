@@ -1,0 +1,17 @@
+Multiple pointers
+
+Creating pointers or values that correspond to an index
+or position and move towards the beginning,
+end or middle based on a certain condition
+
+Very efficient for solving problems with minimal space complexity as well 
+
+
+any structure:
+[-4,-3,-2,-1,0,1,2,5]
+"alksjdalksjdlkasjdlks"
+
+a pointer is just a variable 
+we use two or more pointers 
+
+
